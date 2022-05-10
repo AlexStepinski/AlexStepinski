@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexStepinski
 - 👀 I’m interested in developing code for Industry 4.0 applications.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on I4.0 projects.  I have multiple projects in the pipeline.
 - 📫 How to reach me:  email--> alex@stepinski.tech
 
